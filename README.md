@@ -18,3 +18,5 @@ Using the credit card credit dataset from LendingClub, a peer to peer lending se
 ### Easy Ensemble Classifier 
 ![](https://raw.githubusercontent.com/asanchez116/Credit_Risk_Analysis/master/Resources/Screen%20Shot%202020-12-09%20at%2012.00.14%20AM.png)
 ## Summary
+
+Easy Emsemble Classifier had the best F1 score for high risk between the two machine learning models 
